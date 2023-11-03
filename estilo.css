@@ -20,7 +20,7 @@ body {
      background-color: rgba(0, 174, 255, 0.655); 
      margin: auto;
      height: 25%;
-     padding: 2px;
+     width: auto;
 }
 
 .botao {
@@ -52,4 +52,12 @@ footer {
 
 a {
     font-size: 20px;
+}
+
+input {
+    margin: auto;
+    width: 340px;
+    padding: 2px;
+    border: 1px solid;
+    background-color: white;
 }
