@@ -2,23 +2,25 @@
     box-sizing: border-box;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center; 
-    font-size: 35px;
+    font-size: 30px;
     border-radius:4px;
 }
 
 h1{
     font-size: 50px;
-padding: 30px;
-margin-top: auto;
-border: 2px;
-text-overflow: clip;
-background-color: rgba(0, 0, 255, 0.408);
+    padding: 30px;
+    margin-top: auto;
+    border: 2px;
+    text-overflow: clip;
+    background-color: rgba(0, 0, 255, 0.408);
+    width: 100%;
 }
 
 body {
      background-color: rgba(0, 174, 255, 0.655); 
      margin: auto;
      height: 25%;
+     padding: 2px;
 }
 
 .botao {
@@ -38,10 +40,10 @@ select {
 
 #resposta {
     margin: auto;
-    width: 390px;
+    width: 340px;
     padding: 2px;
     border: 1px solid;
-   background-color: white;
+    background-color: white;
 }
 
 footer {
