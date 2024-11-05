@@ -46,8 +46,13 @@ select {
     background-color:rgb(255, 255, 255);
 }
 
-footer {
-    font-size: 20px;
+footer a {
+    display: flex;
+    justify-content: center;
+    font-weight: lighter;
+    text-decoration: none;
+    color: black;
+    align-items: center;
 }
 
 a {
