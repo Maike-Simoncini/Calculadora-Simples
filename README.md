@@ -1,4 +1,4 @@
-# Calculadora 1
+# Calculadora Simples
 
 Foi desenvolvido uma calculadora usando HTML, CSS e JS para realizar calculos.
 
